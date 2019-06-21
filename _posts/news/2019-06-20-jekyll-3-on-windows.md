@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: An updated guide to setting up Jekyll 3 on Windows
 meta: Installing Jekyll 3 on Windows
 source: https://labs.sverrirs.com/jekyll/4x-markdown-redcarpet.html

@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole
 meta: Creating a static web site using Jekyll, GitHub
 source: http://joshualande.com/jekyll-github-pages-poole

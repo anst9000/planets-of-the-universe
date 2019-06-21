@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: Now lets try out my new quiz app
 meta: Quiz app using javascript, html and css with API
 source: http://studenter.miun.se/~anst9000/QuizApp/
